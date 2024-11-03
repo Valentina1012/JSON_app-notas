@@ -1,16 +1,45 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "notas" : [{
+    "id": "0",
+    "title": "Cocinar",
+    "text": "Torta para mañana",
+    "humor": "Neutro",
+    "typo": ""
+	},
+	{
+    "id": "1",
+    "title": "Estudiar",
+    "text": "Para el jueves toda la teoría de biologia general",
+    "humor": "Inquieto",
+    "typo": ""
+	},
+	{
+    "id": "2",
+    "title": "Deberes de la casa",
+    "text": "Hacer la cama antes de dormir y pasear al perro",
+    "humor": "Neutro",
+    "typo": ""
+	}, 
+	{
+    "id": "3",
+    "title": "Llevar al trabajo",
+    "text": "Las herramientas y el uniforme para el sábado",
+    "humor": "Feliz",
+    "typo": ""
+	},
+	{
+    "id": "4",
+    "title": "Cosas para arreglar",
+    "text": "La mesa del living para que no tambalee y la pantalla rota del celular",
+    "humor": "Enojado",
+    "typo": ""
+	},
+	{
+    "id": "5",
+    "title": "Otras tareas",
+    "text": "Ayudar a Juancito con la tarea del colegio",
+    "humor": "Neutro",
+    "typo": ""
+	}]
 }
+
